@@ -1,12 +1,12 @@
 name = "Vanilla Adventure"
 author = "AmeMeida"
-version = "2.2.2"
+version = "2.3.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "89be2b4a9b410235db8e47982d7f432c734af2f7617c865be3bd3c4f5a81ca2b"
+hash = "949d4f8c9e26f5f075998349d31717598d6ee658536b98b4903ae2c1efcf3a11"
 
 [versions]
 fabric = "0.15.3"
