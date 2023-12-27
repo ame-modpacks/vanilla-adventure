@@ -11,6 +11,3 @@ hash = "43a6df4b0dd4a8af54c86c6f6a650675c6d437b9e421169ac2778b6ea1e4d06c"
 [versions]
 fabric = "0.15.3"
 minecraft = "1.20.1"
-
-[options]
-datapack-folder = "datapacks"
