@@ -368,3 +368,7 @@ metafile = true
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "717541277779ecae1980c5c62d1ad098c20d41a91e7d14927b86582e7e0914b1"
 metafile = true
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r851233.zip"
+hash = "a05c796ed3194a81620b4ad16ac6570f1e44f698e14719344e87e419a2de0d88"
