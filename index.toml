@@ -6,8 +6,18 @@ hash = "e9999d5ccd9cba3a02989e8887ee877e9dcf2daf6fb6d5aa8f1c960e42de6669"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "bdee49ed5bd0f58601ea8d56101490f685e75540a7885b5bb50674df1f4dd328"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "bfd6aac603c9f2a577892c936cf1550010b92fdbe564f8253de8dbe34a562924"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "17b52c26167bab2ff5d234d22e88b8022ba8c4e574b5240dc36a7ff413253378"
 metafile = true
 
 [[files]]
@@ -16,8 +26,23 @@ hash = "f250d6778f5b8d03ca32913bea5ea677508e9bb6d8201cdebe005bbe9c3100ee"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "ab1c014ce67654e89af779137bdfd1f6f22888af218f44cf5d83e943d0d5fbc4"
+metafile = true
+
+[[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "8212f82627dbd4758b22b6303c2878daf8319aa1d9f36d25814e943dc8db62ea"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "60d43521b68e4639ad7e258a8d10759e70a22e543aa0050727283a848466d0b9"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "c5e846de822236cf20f7f9c2b754aae5530344d4616bee8efd5ad987e8245fe0"
 metafile = true
 
 [[files]]
@@ -41,6 +66,11 @@ hash = "4146027b92b4885fddec00435233c61c3728b5e09265982ab187021519a4fa89"
 metafile = true
 
 [[files]]
+file = "mods/incendium.pw.toml"
+hash = "78f676cf264658e720a6522f12c52af65f536071b73720b0f26f44834c7a0cdc"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "f999930809222b57898da25a30aad2135b02894f42c0e1d2832c4670272fbd1d"
 metafile = true
@@ -61,6 +91,11 @@ hash = "3dedde5213176d72e1c353877fa44315945e8f3da2ba05f5679d81e9f558bb1d"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "bd6d19a7233f79f0dc0330f68e20a9e2cc2baeb6c7d0f0a54f97d95a7c2020f7"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "b61b0ccdc8328d637c0f57cbb25258491b94ae03c89c4194ad6ca8b86579dd28"
 metafile = true
@@ -76,6 +111,11 @@ hash = "a045df0a5d03ef89d92ca9318aa42a5a5e7617b37dd38d32b0a7058c0f6f4ef7"
 metafile = true
 
 [[files]]
+file = "mods/nullscape.pw.toml"
+hash = "1f265c12c3649ab889b96bf8a3f5263521e5afc82c66e094983bfd003b3200a2"
+metafile = true
+
+[[files]]
 file = "mods/nvidium.pw.toml"
 hash = "9b5ba0e49c19478f93bef3a4c3ba8f068e4d0039fa643423ef411b9f11621105"
 metafile = true
@@ -83,6 +123,16 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "92fbfef541293794a06fdc71deedfb86d12fc2f3e5fc42842f94bb9f6a42e2ed"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "fa061dc6468aa501d456d99f4a73a92076a00944b62faefff122c7ce4c2c4e18"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-fabric.pw.toml"
+hash = "7495a6a074ae61f29656710725c4d66cff0a920598ae770d8646de8c03987f87"
 metafile = true
 
 [[files]]
@@ -98,6 +148,31 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "18ee61062b3f43fd026ee620bb2de6073de791132c5067d262bd424628bed4a5"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "a2783dd257b7219e7189e4f9d98b057a89a0363a9389245ba76cd85e1033beba"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "1104c15f1318f39d459bbbeb25ae4b3aa2ff881d0e2cce04c5a3918d6af4d56c"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "f4ee188c011337963dc95d3e3c6c76cbd6fccf90c533b09639b490a1129eb522"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "821ff103f4fa5e9f3b7e71b1241b84c53b7ba396863375ff74a5a0d87458bd30"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "32e5438512b7e4c4a4e2fb6346a00e4346702bbea3a0030a108eecb3f7e3f261"
 metafile = true
 
 [[files]]
