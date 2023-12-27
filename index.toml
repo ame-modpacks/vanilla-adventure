@@ -1,9 +1,93 @@
 hash-format = "sha256"
 
 [[files]]
+file = "datapacks/VanillaTweaks_c267830_MC1.20-1.20.4.zip"
+hash = "8ac26a5cbb04a49c6cdc4388dd62dc02bedb47168d184948a9f04aa10d564def"
+
+[[files]]
+file = "datapacks/afk display v1.1.6 (MC 1.20-1.20.4).zip"
+hash = "ad338680e0c324f5dd30cd13607bf6c63bb7e25a926bb8fa67a67e0a1302417c"
+
+[[files]]
+file = "datapacks/armor statues v2.8.11 (MC 1.20-1.20.4).zip"
+hash = "5d24ed9395eec7c2a549ff71f54c211960e96f2daf9dad3e4121e6b13a804465"
+
+[[files]]
+file = "datapacks/cauldron concrete v2.0.9 (MC 1.20-1.20.4).zip"
+hash = "a2c7f6c19369dbfa86216273021ff4217718f66b65cbfba2497a7903ab536e87"
+
+[[files]]
+file = "datapacks/classic fishing loot v1.1.6 (MC 1.20-1.20.4).zip"
+hash = "de5370a45980bab3aa73910136c2a751ffae05d7096dbc61792660ab3a4ba94d"
+
+[[files]]
+file = "datapacks/confetti creepers v2.2.7 (MC 1.20-1.20.4).zip"
+hash = "ddb4d9e5d3f0fa45918bca823ef3cf6c71ed19a916fd76289c0eeeb0a3e3e48a"
+
+[[files]]
+file = "datapacks/custom nether portals v2.3.9 (MC 1.20-1.20.4).zip"
+hash = "f429a2e78d1501d6062d854d0b106d47f270a9c51efe34ff0bc194778a235a39"
+
+[[files]]
+file = "datapacks/custom villager shops v1.2.6 (MC 1.20-1.20.4).zip"
+hash = "db9f988db95ad9b205b6b0b27ea30374923e0344d09392566722f94c740b1473"
+
+[[files]]
+file = "datapacks/double shulker shells v1.3.6 (MC 1.20-1.20.4).zip"
+hash = "8d58a6c9548cd98e10f332724ecfe669f4d69d4d875224813f86acd0d12909d9"
+
+[[files]]
+file = "datapacks/fast leaf decay v2.0.9 (MC 1.20-1.20.4).zip"
+hash = "f821dff8df7e30cdcdafcadb9a720f562199ebfb2e99d229db0f8e7143d6bb29"
+
+[[files]]
+file = "datapacks/kill empty boats v1.1.7 (MC 1.20-1.20.4).zip"
+hash = "a08e3a93fd20318a010de452f2d6d639e13c87d2842bbcaba9992dace52f9754"
+
+[[files]]
+file = "datapacks/larger phantoms v1.2.7 (MC 1.20-1.20.4).zip"
+hash = "780a04013c66940158e7693ca4e4bbeb341c16584bc73996d29f8549bb23686f"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.6 (MC 1.20-1.20.4).zip"
+hash = "1c6516e4ca6198729dc4c32149896b7917d1d902e6db486cac76ff57f94f679e"
+
+[[files]]
+file = "datapacks/nether portal coords v1.1.6 (MC 1.20-1.20.4).zip"
+hash = "ede3c74ea85c762de93b9b5b5eb49ded0d6cb3dda3e9b1f6a8daaecda1fe8665"
+
+[[files]]
+file = "datapacks/real time clock v1.1.6 (MC 1.20-1.20.4).zip"
+hash = "5224b2bc0652c6479d01258d2101409888a7fbcd98b7493e1929662c82b9b70a"
+
+[[files]]
+file = "datapacks/silence mobs v1.2.1 (MC 1.20-1.20.4).zip"
+hash = "28baedd3ede697cebd4f5a4caf2f0e973884820cba6447637f56ae9fa9323ed1"
+
+[[files]]
+file = "datapacks/spectator conduit power v1.1.6 (MC 1.20-1.20.4).zip"
+hash = "d86a5522bff88e5a85750d5869123d991f0590fb52ec651fc14a7a34afd090d0"
+
+[[files]]
+file = "datapacks/spectator night vision v1.1.6 (MC 1.20-1.20.4).zip"
+hash = "1a9f4d638481ea1997b2cc1a5f91759666a24c4b96dc7ea5a1b5b10223cfbd06"
+
+[[files]]
 file = "datapacks/towers-of-the-wild-reworked.pw.toml"
 hash = "b70ebb349dffc58c7c7d88cb763a7824fa1bba23bf4010370d388310ebeebe49"
 metafile = true
+
+[[files]]
+file = "datapacks/track raw statistics v1.7.2 (MC 1.20-1.20.4).zip"
+hash = "93c943d3a3e4b15f44cdea188e125d058003f1f02b3dcb9585857a64e365b122"
+
+[[files]]
+file = "datapacks/track statistics v1.1.7 (MC 1.20-1.20.4).zip"
+hash = "5189a42c1978d8c3ebf203e2622b1881d1ad5cc83feffade09197b87fa19f97b"
+
+[[files]]
+file = "datapacks/xp management v1.1.6 (MC 1.20-1.20.4).zip"
+hash = "a7841577b4cf6a1edeaf644cc81a29f36e60e406e0cb239eb02da7e2d5413ac3"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -96,6 +180,11 @@ hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "f28b7f16e0b89f86a625691db438fd69c1029f0fa1aea46bd415036a423a2880"
+metafile = true
+
+[[files]]
 file = "mods/immersive-structures.pw.toml"
 hash = "87184da0fbda69dd2d209f9597beca5241893eb32e3e3d07356d1be3afa496b8"
 metafile = true
@@ -153,6 +242,11 @@ metafile = true
 [[files]]
 file = "mods/nvidium.pw.toml"
 hash = "9b5ba0e49c19478f93bef3a4c3ba8f068e4d0039fa643423ef411b9f11621105"
+metafile = true
+
+[[files]]
+file = "mods/openblocks-elevator-fabric.pw.toml"
+hash = "a1e318a59d0a1886169047dcaaec94312f9d028fae80cd450bf208dc6e5a8a06"
 metafile = true
 
 [[files]]
