@@ -140,6 +140,11 @@ hash = "9a4d1f42d2798dac502f7adcbee9b6691d7e79c50d91b23af11923893a686b8b"
 metafile = true
 
 [[files]]
+file = "mods/deathlog.pw.toml"
+hash = "b02739fbdc676c7561a500ad26aa59802b463e08d637d261b247a544f788d585"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
 metafile = true
@@ -172,6 +177,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "f6f8827bc39d892a56351a6cecd39176addebb2ebf1c608b761b0d1985080b05"
+metafile = true
+
+[[files]]
+file = "mods/fabrictailor.pw.toml"
+hash = "ee9bd23aea09a314966d57a211d84aa288e7803c4277c6996edac334eee77c58"
 metafile = true
 
 [[files]]
@@ -262,6 +272,11 @@ metafile = true
 [[files]]
 file = "mods/openblocks-elevator-fabric.pw.toml"
 hash = "a1e318a59d0a1886169047dcaaec94312f9d028fae80cd450bf208dc6e5a8a06"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
 
 [[files]]
