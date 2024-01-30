@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "chocapic13-shaders.pw.toml"
-hash = "f22d3092caf76eb70ed12d5649a3216d4ee4a6107ca1bcb2a81fc39e9cc544e9"
-metafile = true
-
-[[files]]
 file = "datapacks/VanillaTweaks_c267830_MC1.20-1.20.4.zip"
 hash = "8ac26a5cbb04a49c6cdc4388dd62dc02bedb47168d184948a9f04aa10d564def"
 
