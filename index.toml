@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "chocapic13-shaders.pw.toml"
+hash = "f22d3092caf76eb70ed12d5649a3216d4ee4a6107ca1bcb2a81fc39e9cc544e9"
+metafile = true
+
+[[files]]
 file = "datapacks/VanillaTweaks_c267830_MC1.20-1.20.4.zip"
 hash = "8ac26a5cbb04a49c6cdc4388dd62dc02bedb47168d184948a9f04aa10d564def"
 
@@ -230,6 +235,11 @@ hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "a52e7b7897b5f1000fbbb1c4fb72eb0691de2672324492a55c115b99496c1fec"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "bd14735296607c2f58e3130748610d08ab6407afcb1d7cd168e856a0012173a7"
 metafile = true
@@ -382,6 +392,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "64254c688cb5b7e22ef17a129f9b7469899e14a322580e2a7988f4e5b75397f2"
 metafile = true
 
 [[files]]
