@@ -1,6 +1,6 @@
 name = "Vanilla Adventure"
 author = "AmeMeida"
-version = "2.3.2"
+version = "2.3.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
