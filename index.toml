@@ -120,6 +120,11 @@ hash = "7721e78d990cc15c02f1a03cd6d7652ea995b271a3d19a6ae44829b4c69acbf0"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "b3503cb0b7eae56e27e1d7980882795c0b81f4750ec9b140beb996a9d7c0dfb3"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "56a4d9f9b47a65b3508192e519163ff73c712354d3ff907938f2593d18ea166e"
 metafile = true
@@ -382,6 +387,11 @@ metafile = true
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "f4ee188c011337963dc95d3e3c6c76cbd6fccf90c533b09639b490a1129eb522"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "d3f43c1b4ceee76f41e0033884cf56a311d5150b99fb95187df4a4e85ac91041"
 metafile = true
 
 [[files]]
