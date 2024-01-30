@@ -110,6 +110,11 @@ hash = "b25474cd7e4cff1ff70fbcbd1a466aa518850d8fa82da1114667f04a03fc9fff"
 metafile = true
 
 [[files]]
+file = "mods/beenfo.pw.toml"
+hash = "b8b5d3442490a7d9c6e772139a08c5679004bdafdc2b4705a82e09cf21b3b2ce"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "7721e78d990cc15c02f1a03cd6d7652ea995b271a3d19a6ae44829b4c69acbf0"
 metafile = true
@@ -122,6 +127,11 @@ metafile = true
 [[files]]
 file = "mods/cherry-villages.pw.toml"
 hash = "400f0b0361b711181c6947583bea5b6585afedb1434877f1e1e44f45e72ac56d"
+metafile = true
+
+[[files]]
+file = "mods/clickthrough.pw.toml"
+hash = "e6d3f593517ccc7331cb2f581deaa092094bef8fc501284eacd7379a33bee212"
 metafile = true
 
 [[files]]
@@ -177,6 +187,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "f6f8827bc39d892a56351a6cecd39176addebb2ebf1c608b761b0d1985080b05"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "bd278a821fa158a7ffedb511c84e5bc0887192ceae21f9038b30357edd64a9e9"
 metafile = true
 
 [[files]]
@@ -300,6 +315,11 @@ hash = "6f1f679fa3d6c2a2f857e46eb75779b5320aeb20f81ebfce9ca13075fa1aa660"
 metafile = true
 
 [[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "4e691c86059e755a026b8cae8cf0c66396dc39bf47b6c71980589101803ecd36"
 metafile = true
@@ -387,6 +407,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "717541277779ecae1980c5c62d1ad098c20d41a91e7d14927b86582e7e0914b1"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
 metafile = true
 
 [[files]]
